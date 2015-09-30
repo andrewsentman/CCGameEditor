@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_45" class="java.beans.XMLDecoder">
+ <object class="com.qwertyzzz18.ccgame.editor.Map" id="Map0">
+  <void class="com.qwertyzzz18.ccgame.editor.Map" method="getField">
+   <string>nextID</string>
+   <void method="set">
+    <object idref="Map0"/>
+    <int>5</int>
+   </void>
+  </void>
+ </object>
+</java>

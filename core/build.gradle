@@ -9,3 +9,11 @@ sourceSets.main.java.srcDirs = [ "src/" ]
 eclipse.project {
     name = appName + "-core"
 }
+
+repositories {
+    mavenCentral()
+}
+ 
+dependencies {
+    compile 'com.google.code.gson:gson:2.2.4'
+}
